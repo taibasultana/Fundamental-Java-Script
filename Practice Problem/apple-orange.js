@@ -4,3 +4,4 @@ var orangePrice = 300;
 var expense = applePrice + orangePrice;
 console.log(expense);
 var giveBack = moneyGiven - expense;
+console.log(giveBack);

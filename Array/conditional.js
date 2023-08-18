@@ -14,7 +14,7 @@ var myBudget = 95000;
 
 if (iphonePrice < myBudget){
     console.log('i phone kine futani marbo');
-}\
+}
 
 var chickenPrice = 500;
 var myMoney = 50;
