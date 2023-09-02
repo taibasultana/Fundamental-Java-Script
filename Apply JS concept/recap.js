@@ -21,4 +21,28 @@ else{
 
 }
 
-// 4.
+// 4.loop
+var number = 0;
+while(number <= 6){
+    console.log(number);
+    number++;
+}
+ 
+for(var i = 0; i <= 10; i++){
+
+}
+
+// 5. function
+function isMoonUp(time){
+    if(time > 7){
+        return true;
+    }
+}
+
+// 6. Object
+
+var jantush = {
+    height: 60,
+    romanticism: 'heavy'
+    baperTaka: 'borolox'
+}
